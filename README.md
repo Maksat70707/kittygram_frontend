@@ -3,7 +3,7 @@
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-git clone https://github.com/yandex-praktikum/kittygram_frontend.git
+git clone https://github.com/Maksat70707/kittygram_frontend.git
 ```
 
 ```
